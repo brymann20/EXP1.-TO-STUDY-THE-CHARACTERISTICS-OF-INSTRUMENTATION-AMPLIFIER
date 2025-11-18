@@ -1,7 +1,7 @@
 # EXP1.-TO-STUDY-THE-CHARACTERISTICS-OF-INSTRUMENTATION-AMPLIFIER
 
 ## Aim :
-To study and calibrate Instrumentation Amplifiers.
+To study and calibrate Instrumentation Amplifiers.m
 
 ## Procedure:
 
