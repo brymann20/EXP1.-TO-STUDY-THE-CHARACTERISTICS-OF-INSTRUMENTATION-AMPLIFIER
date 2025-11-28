@@ -25,3 +25,4 @@ Step 6: Simulator will make a graph on the right side of the simulator interacti
 <img width="603" height="343" alt="image" src="https://github.com/user-attachments/assets/b28bc2bb-526a-4c03-846d-7c11ec0ac391" /> 
 
 ## Result :
+The instrumentation amplifier showed high input impedance, high CMRR, and accurate differential gain, enabling precise amplification of small differential signals. Output varied linearly with the gain-setting resistor, confirming stable and predictable performance.
